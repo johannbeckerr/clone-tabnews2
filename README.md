@@ -1,2 +1,2 @@
-# clone-tabnews
-Recriando o projeto TabNews do curso.dev
+# clone-tabnews2
+Recriando o projeto TabNews do curso.dev2
