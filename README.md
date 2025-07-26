@@ -1,2 +1,2 @@
-# clone-tabnews2
+# obscure fishstick
 apenas para testes e estudos
